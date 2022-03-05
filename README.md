@@ -2,4 +2,4 @@ This is a React app that can generate random memes, and then you can add some te
 
 For this project I'm using props, useState,and useEffect.
 
-![Meme Generator](./project_5.png)
+![Meme Generator](./meme_generator.png)
